@@ -64,7 +64,7 @@ DEFAULT_SERVERS = {
     'electrum.be':DEFAULT_PORTS,                        # core, e-x
     'helicarrier.bauerj.eu':DEFAULT_PORTS,              # core, e-x
     'elex01.blackpole.online':DEFAULT_PORTS,            # core, e-x
-    'electrumx.not.fyi':DEFAULT_PORTS,                  # core, e-x
+    'E-X.not.fyi':DEFAULT_PORTS,                  # core, e-x
     'node.xbt.eu':DEFAULT_PORTS,                        # core, e-x
     'kirsche.emzy.de':DEFAULT_PORTS,                    # core, e-x
     'electrum.villocq.com':DEFAULT_PORTS,               # core?, e-s; banner with version recommended
